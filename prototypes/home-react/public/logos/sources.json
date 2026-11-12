@@ -1,0 +1,784 @@
+[
+  {
+    "id": "canva",
+    "file": "canva.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/canva.svg",
+    "matched": "canva"
+  },
+  {
+    "id": "spotify",
+    "file": "spotify.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/spotify.svg",
+    "matched": "spotify"
+  },
+  {
+    "id": "notion",
+    "file": "notion.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/notion.svg",
+    "matched": "notion"
+  },
+  {
+    "id": "youtube",
+    "file": "youtube.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/youtube.svg",
+    "matched": "youtube"
+  },
+  {
+    "id": "netflix",
+    "file": "netflix.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/netflix.svg",
+    "matched": "netflix"
+  },
+  {
+    "id": "google-one",
+    "file": "google-one.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/google-one.svg",
+    "matched": "google-one"
+  },
+  {
+    "id": "icloud",
+    "file": "icloud.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/icloud.svg",
+    "matched": "icloud"
+  },
+  {
+    "id": "wavve",
+    "file": "wavve.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/52/0a/ea520a1f-9983-ef49-2179-9b19493ab126/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/wavve-%EC%9B%A8%EC%9D%B4%EB%B8%8C/id987782077?uo=4",
+    "matched": "Wavve (웨이브)"
+  },
+  {
+    "id": "tving",
+    "file": "tving.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/6f/22/516f2221-c843-f927-db92-12a07d4b1956/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/tving/id400101401?uo=4",
+    "matched": "TVING"
+  },
+  {
+    "id": "watcha",
+    "file": "watcha.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/70/2a/9f702a61-dce6-ed03-36c1-30aa4ffa5ee3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%99%93%EC%B1%A0-watcha/id1096493180?uo=4",
+    "matched": "왓챠 - WATCHA"
+  },
+  {
+    "id": "coupang",
+    "file": "coupang.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/ad/af/e5adaff3-cef8-ba6e-3a64-4392f0d426cb/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1-coupang-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%87%BC%ED%95%91/id454434967?uo=4",
+    "matched": "쿠팡(Coupang)-모바일 쇼핑"
+  },
+  {
+    "id": "milli",
+    "file": "milli.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/32/a4/5632a496-abab-2de9-3f66-64ec1cc2678b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%B0%80%EB%A6%AC%EC%9D%98%EC%84%9C%EC%9E%AC/id1213788923?uo=4",
+    "matched": "밀리의서재"
+  },
+  {
+    "id": "apple-tv",
+    "file": "apple-tv.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/apple-tv.svg",
+    "matched": "apple-tv"
+  },
+  {
+    "id": "disney",
+    "file": "disney.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/disney-plus.svg",
+    "matched": "disney-plus"
+  },
+  {
+    "id": "prime-video",
+    "file": "prime-video.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/amazon-prime-video.svg",
+    "matched": "amazon-prime-video"
+  },
+  {
+    "id": "crunchyroll",
+    "file": "crunchyroll.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/crunchyroll.svg",
+    "matched": "crunchyroll"
+  },
+  {
+    "id": "coupang-play",
+    "file": "coupang-play.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/bb/83/fcbb83b0-2de2-21fb-f168-d1742020f304/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%88%EC%9D%B4/id1536885649?uo=4",
+    "matched": "쿠팡플레이"
+  },
+  {
+    "id": "apple-music",
+    "file": "apple-music.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/apple-music.svg",
+    "matched": "apple-music"
+  },
+  {
+    "id": "laftel",
+    "file": "laftel.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/72/3a/f9723ac4-d19f-a9f1-18da-1c1d864b925e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%9D%BC%ED%94%84%ED%85%94/id1169440095?uo=4",
+    "matched": "라프텔"
+  },
+  {
+    "id": "youtube-music",
+    "file": "youtube-music.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/youtube-music.svg",
+    "matched": "youtube-music"
+  },
+  {
+    "id": "viki",
+    "file": "viki.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/33/6c/77336c4c-b42c-2573-91c5-7a6c2b3a12ef/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+    "matched": "Viki: Asian Dramas, Movies, TV"
+  },
+  {
+    "id": "genie",
+    "file": "genie.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/e4/d5/3ae4d5d0-82f9-564f-b334-7bacacad72e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%A7%80%EB%8B%88%EB%AE%A4%EC%A7%81-genie/id858266085?uo=4",
+    "matched": "지니뮤직 - genie"
+  },
+  {
+    "id": "melon",
+    "file": "melon.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/64/d3/5164d3fb-dcb6-fa4b-b14b-97a91d0eb7db/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%A9%9C%EB%A1%A0-melon/id415597317?uo=4",
+    "matched": "멜론(Melon)"
+  },
+  {
+    "id": "flo",
+    "file": "flo.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/07/e8/d907e8db-e319-e1eb-babb-ebf033c66acd/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/flo-%ED%94%8C%EB%A1%9C/id1129048043?uo=4",
+    "matched": "FLO - 플로"
+  },
+  {
+    "id": "bugs",
+    "file": "bugs.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/3b/d0/cf3bd074-fa4d-4e06-9790-a801c13b4ada/bugs_icon3-0-0-1x_U007epad-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%B2%85%EC%8A%A4-bugs/id348555322?uo=4",
+    "matched": "벅스 - Bugs"
+  },
+  {
+    "id": "soundcloud",
+    "file": "soundcloud.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/soundcloud.svg",
+    "matched": "soundcloud"
+  },
+  {
+    "id": "vibe",
+    "file": "vibe.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/c1/6a/eec16afe-a937-eacb-979d-48364f4ce8d8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "matched": "NAVER VIBE (바이브)"
+  },
+  {
+    "id": "tidal",
+    "file": "tidal.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/tidal.svg",
+    "matched": "tidal"
+  },
+  {
+    "id": "deezer",
+    "file": "deezer.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/deezer.svg",
+    "matched": "deezer"
+  },
+  {
+    "id": "amazon-music",
+    "file": "amazon-music.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/amazon-music.svg",
+    "matched": "amazon-music"
+  },
+  {
+    "id": "naver-plus",
+    "file": "naver-plus.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e8/ad/5de8adb3-fb94-06b4-5d6a-5cac65fd3a65/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8A%A4%ED%86%A0%EC%96%B4/id6738063154?uo=4",
+    "matched": "네이버플러스 스토어"
+  },
+  {
+    "id": "baemin",
+    "file": "baemin.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/39/b5/3239b596-4093-975b-b5a4-978ddfd8de64/AppIcon-Default-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1-%EB%B0%B0%EB%8B%AC%ED%8C%81-%EB%AC%B4%EB%A3%8C-%EB%B0%B0%EB%AF%BC%ED%81%B4%EB%9F%BD/id378084485?uo=4",
+    "matched": "배달의민족 - 배달팁 무료 배민클럽"
+  },
+  {
+    "id": "yogiyo",
+    "file": "yogiyo.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/7f/cb/177fcb03-823a-e730-c853-9b7c62a4fb27/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%9A%94%EA%B8%B0%EC%9A%94-%EB%B0%B0%EB%8B%AC%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%A0%81%EB%A6%BD/id543831532?uo=4",
+    "matched": "요기요 - 배달할 때마다 포인트 적립"
+  },
+  {
+    "id": "kurly",
+    "file": "kurly.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/37/9a/a7379a1b-5157-3538-7ac1-b38eb3462af7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%BB%AC%EB%A6%AC-%EB%A7%88%EC%BC%93%EC%BB%AC%EB%A6%AC-%EB%B7%B0%ED%8B%B0%EC%BB%AC%EB%A6%AC/id1080244833?uo=4",
+    "matched": "컬리 - 마켓컬리, 뷰티컬리"
+  },
+  {
+    "id": "apple-one",
+    "file": "apple-one.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/apple.svg",
+    "matched": "apple"
+  },
+  {
+    "id": "claude",
+    "file": "claude.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/claude.svg",
+    "matched": "claude"
+  },
+  {
+    "id": "sk-universe",
+    "file": "sk-universe.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/e7/0b/70e70b79-ad98-7efb-7a4a-d8fb954f9272/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/t-%EC%9A%B0%EC%A3%BC/id6480496299?uo=4",
+    "matched": "T 우주"
+  },
+  {
+    "id": "chatgpt",
+    "file": "chatgpt.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/chatgpt.svg",
+    "matched": "chatgpt"
+  },
+  {
+    "id": "gemini",
+    "file": "gemini.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/google-gemini.svg",
+    "matched": "google-gemini"
+  },
+  {
+    "id": "costco",
+    "file": "costco.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/86/9d/d3869d74-c798-58af-d39c-4344b8ee7a1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%BD%94%EC%8A%A4%ED%8A%B8%EC%BD%94-%ED%99%80%EC%84%B8%EC%9D%BC-%EC%BD%94%EB%A6%AC%EC%95%84/id1477024315?uo=4",
+    "matched": "코스트코 홀세일 코리아"
+  },
+  {
+    "id": "perplexity",
+    "file": "perplexity.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/perplexity.svg",
+    "matched": "perplexity"
+  },
+  {
+    "id": "copilot",
+    "file": "copilot.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/microsoft-copilot.svg",
+    "matched": "microsoft-copilot"
+  },
+  {
+    "id": "cursor",
+    "file": "cursor.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/cursor.svg",
+    "matched": "cursor"
+  },
+  {
+    "id": "github-copilot",
+    "file": "github-copilot.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/github-copilot.svg",
+    "matched": "github-copilot"
+  },
+  {
+    "id": "midjourney",
+    "file": "midjourney.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/midjourney.svg",
+    "matched": "midjourney"
+  },
+  {
+    "id": "runway",
+    "file": "runway.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/runway.svg",
+    "matched": "runway"
+  },
+  {
+    "id": "suno",
+    "file": "suno.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/suno.svg",
+    "matched": "suno"
+  },
+  {
+    "id": "adobe-cc",
+    "file": "adobe-cc.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/adobe-creative-cloud.svg",
+    "matched": "adobe-creative-cloud"
+  },
+  {
+    "id": "photoshop",
+    "file": "photoshop.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/adobe-photoshop.svg",
+    "matched": "adobe-photoshop"
+  },
+  {
+    "id": "lightroom",
+    "file": "lightroom.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/adobe-lightroom.svg",
+    "matched": "adobe-lightroom"
+  },
+  {
+    "id": "acrobat",
+    "file": "acrobat.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/adobe-acrobat.svg",
+    "matched": "adobe-acrobat"
+  },
+  {
+    "id": "figma",
+    "file": "figma.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/figma.svg",
+    "matched": "figma"
+  },
+  {
+    "id": "microsoft365",
+    "file": "microsoft365.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/microsoft-office.svg",
+    "matched": "microsoft-office"
+  },
+  {
+    "id": "slack",
+    "file": "slack.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/slack.svg",
+    "matched": "slack"
+  },
+  {
+    "id": "workspace",
+    "file": "workspace.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/google-workspace.svg",
+    "matched": "google-workspace"
+  },
+  {
+    "id": "zoom",
+    "file": "zoom.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/zoom.svg",
+    "matched": "zoom"
+  },
+  {
+    "id": "evernote",
+    "file": "evernote.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/evernote.svg",
+    "matched": "evernote"
+  },
+  {
+    "id": "todoist",
+    "file": "todoist.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/todoist.svg",
+    "matched": "todoist"
+  },
+  {
+    "id": "ticktick",
+    "file": "ticktick.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/ticktick.svg",
+    "matched": "ticktick"
+  },
+  {
+    "id": "clickup",
+    "file": "clickup.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/clickup.svg",
+    "matched": "clickup"
+  },
+  {
+    "id": "trello",
+    "file": "trello.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/trello.svg",
+    "matched": "trello"
+  },
+  {
+    "id": "asana",
+    "file": "asana.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/asana.svg",
+    "matched": "asana"
+  },
+  {
+    "id": "linear",
+    "file": "linear.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/linear.svg",
+    "matched": "linear"
+  },
+  {
+    "id": "grammarly",
+    "file": "grammarly.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/grammarly.svg",
+    "matched": "grammarly"
+  },
+  {
+    "id": "picsart",
+    "file": "picsart.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/picsart.svg",
+    "matched": "picsart"
+  },
+  {
+    "id": "vsco",
+    "file": "vsco.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/vsco.svg",
+    "matched": "vsco"
+  },
+  {
+    "id": "quillbot",
+    "file": "quillbot.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/01/28/65012871-edb3-14bd-51db-4d0e966fd040/qb_app_icon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/quillbot-ai-writing-keyboard/id6463116243?uo=4",
+    "matched": "Quillbot-AI Writing & Keyboard"
+  },
+  {
+    "id": "proton",
+    "file": "proton.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/proton.svg",
+    "matched": "proton"
+  },
+  {
+    "id": "capcut",
+    "file": "capcut.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/eb/ab/efebab85-a422-d5da-1fab-23de4f2845ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/capcut-%EC%82%AC%EC%A7%84-%EB%B0%8F-%EB%8F%99%EC%98%81%EC%83%81-%EC%97%90%EB%94%94%ED%84%B0/id1500855883?uo=4",
+    "matched": "CapCut: 사진 및 동영상 에디터"
+  },
+  {
+    "id": "snow",
+    "file": "snow.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/d0/65/34d065b5-2b4a-f92e-0897-9b53a69adf99/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/snow-%EC%8A%A4%EB%85%B8%EC%9A%B0-ai-%ED%94%84%EB%A1%9C%ED%95%84-%EA%B3%A0%ED%99%94%EC%A7%88-%EC%B9%B4%EB%A9%94%EB%9D%BC/id1022267439?uo=4",
+    "matched": "SNOW 스노우 - AI 프로필 & 고화질 카메라"
+  },
+  {
+    "id": "onedrive",
+    "file": "onedrive.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/microsoft-onedrive.svg",
+    "matched": "microsoft-onedrive"
+  },
+  {
+    "id": "dropbox",
+    "file": "dropbox.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/dropbox.svg",
+    "matched": "dropbox"
+  },
+  {
+    "id": "inshot",
+    "file": "inshot.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/ca/b8/e6cab8f1-cb45-37de-7096-e5f09bc0c031/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/inshot-vlog-%EB%8F%99%EC%98%81%EC%83%81-%ED%8E%B8%EC%A7%91-%EC%96%B4%ED%94%8C/id997362197?uo=4",
+    "matched": "InShot - Vlog 동영상 편집 어플"
+  },
+  {
+    "id": "box",
+    "file": "box.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/box.svg",
+    "matched": "box"
+  },
+  {
+    "id": "mega",
+    "file": "mega.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/mega.svg",
+    "matched": "mega"
+  },
+  {
+    "id": "nintendo",
+    "file": "nintendo.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/nintendo-switch.svg",
+    "matched": "nintendo-switch"
+  },
+  {
+    "id": "mybox",
+    "file": "mybox.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/d4/dd/35d4dd23-df49-972e-33b0-a9d90307ed2b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-mybox-naver-mybox/id585173084?uo=4",
+    "matched": "네이버 MYBOX - NAVER MYBOX"
+  },
+  {
+    "id": "xbox",
+    "file": "xbox.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/xbox.svg",
+    "matched": "xbox"
+  },
+  {
+    "id": "playstation",
+    "file": "playstation.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/playstation.svg",
+    "matched": "playstation"
+  },
+  {
+    "id": "apple-arcade",
+    "file": "apple-arcade.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/apple-arcade.svg",
+    "matched": "apple-arcade"
+  },
+  {
+    "id": "geforce",
+    "file": "geforce.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/nvidia.svg",
+    "matched": "nvidia"
+  },
+  {
+    "id": "pcloud",
+    "file": "pcloud.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/4e/c7/924ec7f7-b4b1-ea87-2d5f-b8d170450be5/app_icon_classic-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/pcloud-cloud-storage/id692002098?uo=4",
+    "matched": "pCloud - Cloud Storage"
+  },
+  {
+    "id": "EA-play",
+    "file": "EA-play.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/ea.svg",
+    "matched": "ea"
+  },
+  {
+    "id": "ubisoft",
+    "file": "ubisoft.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/ubisoft.svg",
+    "matched": "ubisoft"
+  },
+  {
+    "id": "discord",
+    "file": "discord.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/discord.svg",
+    "matched": "discord"
+  },
+  {
+    "id": "wow",
+    "file": "wow.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/blizzard.svg",
+    "matched": "blizzard"
+  },
+  {
+    "id": "ff14",
+    "file": "ff14.ico",
+    "source": "https://www.ff14.co.kr/favicon.ico",
+    "matched": "official site icon"
+  },
+  {
+    "id": "audible",
+    "file": "audible.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/audible.svg",
+    "matched": "audible"
+  },
+  {
+    "id": "yes24",
+    "file": "yes24.ico",
+    "source": "https://image.yes24.com/sysimage/renew/gnb/favicon_n.ico",
+    "matched": "official site icon"
+  },
+  {
+    "id": "ridi",
+    "file": "ridi.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/56/b0/5856b06c-6715-3415-950b-f048083e1799/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%A7%8C%ED%99%94-%EC%9B%B9%ED%88%B0-%EC%9B%B9%EC%86%8C%EC%84%A4-%EB%8F%84%EC%84%9C%EB%8A%94-%EB%A6%AC%EB%94%94/id338813698?uo=4",
+    "matched": "만화 웹툰 웹소설 도서는 리디"
+  },
+  {
+    "id": "kyobo",
+    "file": "kyobo.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/d8/49/80d84917-dc2f-829d-6767-f20a7713363e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EA%B5%90%EB%B3%B4ebook-e%EC%84%B8%EC%83%81%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%A0%84%EC%9E%90%EC%B1%85/id445290463?uo=4",
+    "matched": "교보eBook - e세상의 모든 전자책"
+  },
+  {
+    "id": "medium",
+    "file": "medium.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/medium.svg",
+    "matched": "medium"
+  },
+  {
+    "id": "nytimes",
+    "file": "nytimes.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/new-york-times.svg",
+    "matched": "new-york-times"
+  },
+  {
+    "id": "storytel",
+    "file": "storytel.png",
+    "source": "https://www.storytel.com/apple-touch-icon.png",
+    "matched": "official site icon"
+  },
+  {
+    "id": "duolingo",
+    "file": "duolingo.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/duolingo.svg",
+    "matched": "duolingo"
+  },
+  {
+    "id": "kindle",
+    "file": "kindle.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/44/df/6444dfe7-8c78-56f6-330e-181f5aa5dc52/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/amazon-kindle-reading-app/id302584613?uo=4",
+    "matched": "Amazon Kindle: Reading App"
+  },
+  {
+    "id": "wsj",
+    "file": "wsj.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/71/24/e871248c-9683-62ac-9398-bc38ac1623ec/AppIconWSJ-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/the-wall-street-journal-news/id364387007?uo=4",
+    "matched": "The Wall Street Journal News"
+  },
+  {
+    "id": "economist",
+    "file": "economist.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/43/ca/5d43ca3f-953a-776b-e7a9-1d0361abdf63/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/the-economist-news-analysis/id1239397626?uo=4",
+    "matched": "The Economist: News & Analysis"
+  },
+  {
+    "id": "speak",
+    "file": "speak.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ba/68/24ba6803-b408-0fe2-60d3-a7eb5edbec07/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%8A%A4%ED%94%BD-speak-%EC%98%81%EC%96%B4%ED%9A%8C%ED%99%94-%EC%8A%A4%ED%94%BC%ED%82%B9-%EB%B0%9C%EC%9D%8C/id1286609883?uo=4",
+    "matched": "스픽 (Speak) - 영어회화, 스피킹, 발음"
+  },
+  {
+    "id": "coursera",
+    "file": "coursera.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/coursera.svg",
+    "matched": "coursera"
+  },
+  {
+    "id": "class101",
+    "file": "class101.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/7f/0a/d37f0aa8-e7a0-9bcb-d3fb-d03197c6b92b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/class101-%ED%81%B4%EB%9E%98%EC%8A%A4101/id1320607634?uo=4",
+    "matched": "CLASS101 - 클래스101"
+  },
+  {
+    "id": "cake",
+    "file": "cake.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/2a/ab/082aab9d-16bf-01dc-2c1d-89ffd94f5075/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/cake-%EC%A0%84-%EC%84%B8%EA%B3%84-1%EC%96%B5-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%98%81%EC%96%B4-%ED%95%99%EC%8A%B5-%EC%95%B1/id1350420987?uo=4",
+    "matched": "Cake: 전 세계 1억 다운로드 영어 학습 앱"
+  },
+  {
+    "id": "elsa",
+    "file": "elsa.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/90/86/7290868b-1ba1-e054-394c-e4fdb4257d9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/elsa-speak-%EC%98%81%EC%96%B4-%ED%95%99%EC%8A%B5/id1083804886?uo=4",
+    "matched": "ELSA Speak - 영어 학습"
+  },
+  {
+    "id": "skillshare",
+    "file": "skillshare.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/skillshare.svg",
+    "matched": "skillshare"
+  },
+  {
+    "id": "masterclass",
+    "file": "masterclass.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/masterclass.svg",
+    "matched": "masterclass"
+  },
+  {
+    "id": "memrise",
+    "file": "memrise.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/12/44/db12442e-cb36-868e-77f0-6a468ff18f7d/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-0-85-220.png/512x512bb.jpg",
+    "matched": "Memrise: 언어공부 및 외국어 학습"
+  },
+  {
+    "id": "brilliant",
+    "file": "brilliant.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/30/89/9a308901-7c6e-02e9-8ad2-7b200c547834/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/brilliant-learn-math-coding/id913335252?uo=4",
+    "matched": "Brilliant: Learn Math & Coding"
+  },
+  {
+    "id": "strava",
+    "file": "strava.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/strava.svg",
+    "matched": "strava"
+  },
+  {
+    "id": "fitbit",
+    "file": "fitbit.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/fitbit.svg",
+    "matched": "fitbit"
+  },
+  {
+    "id": "busuu",
+    "file": "busuu.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/64/aa/9d64aa9d-d469-2be3-fdf1-2833df4516b7/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/busuu-%EC%98%81%EC%96%B4-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EA%B8%B0%ED%83%80-%EC%99%B8%EA%B5%AD%EC%96%B4-%EA%B3%B5%EB%B6%80/id379968583?uo=4",
+    "matched": "Busuu | 영어, 일본어, 기타 외국어 공부"
+  },
+  {
+    "id": "headspace",
+    "file": "headspace.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/headspace.svg",
+    "matched": "headspace"
+  },
+  {
+    "id": "myfitnesspal",
+    "file": "myfitnesspal.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/myfitnesspal.svg",
+    "matched": "myfitnesspal"
+  },
+  {
+    "id": "nordvpn",
+    "file": "nordvpn.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/nordvpn.svg",
+    "matched": "nordvpn"
+  },
+  {
+    "id": "calm",
+    "file": "calm.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/f9/ae/b0f9aee9-3093-1f75-35de-28f1b5754272/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/calm/id571800810?uo=4",
+    "matched": "Calm"
+  },
+  {
+    "id": "nike-run",
+    "file": "nike-run.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/7d/1f/977d1fbb-e84a-2a91-820f-3800c6e0bd6e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EB%9F%B0%EB%8D%B0%EC%9D%B4-%EC%A6%90%EA%B2%81%EA%B2%8C-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EA%B3%84%EB%8B%A8-%EB%93%B1%EC%82%B0-%EC%BD%94%EC%B9%AD-pt/id1042937618?uo=4",
+    "matched": "런데이:즐겁게 달리기, 만보기, 계단, 등산 코칭 PT"
+  },
+  {
+    "id": "freeletics",
+    "file": "freeletics.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/72/2e/18722e1e-e95d-7c38-afaa-020011559643/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/freeletics-hiit-fitness-coach/id654810212?uo=4",
+    "matched": "Freeletics: HIIT Fitness Coach"
+  },
+  {
+    "id": "expressvpn",
+    "file": "expressvpn.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/expressvpn.svg",
+    "matched": "expressvpn"
+  },
+  {
+    "id": "surfshark",
+    "file": "surfshark.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/surfshark.svg",
+    "matched": "surfshark"
+  },
+  {
+    "id": "1password",
+    "file": "1password.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/1password.svg",
+    "matched": "1password"
+  },
+  {
+    "id": "bitwarden",
+    "file": "bitwarden.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/bitwarden.svg",
+    "matched": "bitwarden"
+  },
+  {
+    "id": "dashlane",
+    "file": "dashlane.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/dashlane.svg",
+    "matched": "dashlane"
+  },
+  {
+    "id": "telegram",
+    "file": "telegram.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/telegram.svg",
+    "matched": "telegram"
+  },
+  {
+    "id": "patreon",
+    "file": "patreon.svg",
+    "source": "https://raw.githubusercontent.com/ln-dev7/logos-apps/master/logos/patreon.svg",
+    "matched": "patreon"
+  },
+  {
+    "id": "kakao-emoticon",
+    "file": "kakao-emoticon.png",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/ee/f4/d5eef492-91fa-22d7-6c4d-c73ff7fa657d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+    "appStore": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-kakaotalk/id362057947?uo=4",
+    "matched": "카카오톡 KakaoTalk"
+  }
+]

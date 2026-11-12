@@ -1,31 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap");
 :root {
-  font-family: 'Noto Sans KR', sans-serif;
-  line-height: 1.4;
-  font-weight: 400;
+  font-family: "Noto Sans KR", sans-serif;
+  color: #1b3531;
+  background: #e7ecea;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  font-size: 14px;
 }
-
 * {
   box-sizing: border-box;
 }
-
-html,
 body {
   margin: 0;
-  padding: 0;
   min-width: 320px;
-  min-height: 100%;
 }
-
-body {
-  background: #dcdcdc;
-}
-
 button,
 input,
 select {
   font: inherit;
+}
+button {
+  cursor: pointer;
+}
+button:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+button:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #51b6a8;
+  outline-offset: 3px;
+}
+button {
+  border: 0;
+  background: none;
+  color: inherit;
+}
+input,
+select {
+  min-width: 0;
+}
+button,
+summary,
+input,
+select {
+  -webkit-tap-highlight-color: transparent;
+}
+button svg {
+  flex-shrink: 0;
+}
+a {
+  color: #00796b;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+h2 {
+  font-size: 15px;
+  font-weight: 750;
+}
+small {
+  font-size: 11px;
+}
+input[type="checkbox"] {
+  accent-color: #00796b;
+  width: 16px;
+  height: 16px;
+}
+button {
+  touch-action: manipulation;
 }
